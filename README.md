@@ -10,3 +10,6 @@ https://nodejs.org/en/download/
  - To Run IN CMD : Type node then enter the commands.
  - To Make New file of Nodejs. We have to initiallize NPM : Which provides Dependencies for nodejs programs. [Write npm init]
  
+ -> To Run Program From File Write (node main.js).
+ 
+ 
